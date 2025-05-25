@@ -58,7 +58,7 @@
     >
         <!-- Ресурсы -->
         <a-assets>
-            <a-asset-item id="animatedModel" src="assets/engine.glb"></a-asset-item>
+            <a-asset-item id="animatedModel" src="ing/engine.glb"></a-asset-item>
         </a-assets>
 
         <!-- Маркер Hiro -->
